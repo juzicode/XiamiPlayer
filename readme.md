@@ -13,9 +13,9 @@
 <h3>设置选项</h3>
 <div class="highlight">
 <pre><span class="p">{</span>
-    <span class="nx">songid</span><span class="o">:</span><span class="mf">3434915</span><span class="p">,</span>     <span class="c1">// 歌曲id, 必须</span>
-    <span class="nx">autoplay</span><span class="o">:</span><span class="mi">1</span><span class="p">,</span>     <span class="c1">// 自动播放,  纯数字, 可留空, 默认0</span>
-    <span class="nx">loop</span><span class="o">:</span><span class="mi">1</span><span class="p">,</span>     <span class="c1">// 循环播放, 纯数字, 可留空, 默认0</span>
+    <span class="nx">songid</span><span class="o">:</span><span class="mf">3434915</span><span class="p">,</span>          <span class="c1">// 歌曲id, 必须</span>
+    <span class="nx">autoplay</span><span class="o">:</span><span class="mi">1</span><span class="p">,</span>          <span class="c1">// 自动播放,  纯数字, 可留空, 默认0</span>
+    <span class="nx">loop</span><span class="o">:</span><span class="mi">1</span><span class="p">,</span>          <span class="c1">// 循环播放, 纯数字, 可留空, 默认0</span>
     <span class="nx">title</span><span class="o">:</span><span class="mi">"永远的平原綾香"</span><span class="p">,</span>     <span class="c1">// 自定义歌曲标题, 可留空</span>
 <span class="p">}</span></pre>
 </div>
